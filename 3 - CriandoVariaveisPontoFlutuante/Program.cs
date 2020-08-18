@@ -16,6 +16,10 @@ namespace _3___CriandoVariaveisPontoFlutuante
 
             Console.WriteLine(salario);
 
+            double idade;
+            idade = 15.0 / 2;
+            Console.WriteLine(idade);
+
             Console.WriteLine("A execução acabou. Tecle enter para sair ...");
             Console.ReadLine();
         }
